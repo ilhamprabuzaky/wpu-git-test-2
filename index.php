@@ -12,6 +12,10 @@
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci doloribus exercitationem voluptates enim aut
         voluptate pariatur voluptatem. Culpa, dicta itaque enim, eius minima perferendis eum quam, saepe suscipit
         officiis reiciendis!</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 
 </html>
